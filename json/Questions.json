@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which of the following is used to define a hyperlink in HTML?",
+    "answer_1": "<link>",
+    "answer_2": "<href>",
+    "answer_3": "<a>",
+    "answer_4": "<img>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "Which CSS property is used to change the background color of an element?",
+    "answer_1": "color",
+    "answer_2": "background-color",
+    "answer_3": "background-image",
+    "answer_4": "border-color",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "Which of the following is the correct way to declare a JavaScript variable?",
+    "answer_1": "var myVar = 'Hello';",
+    "answer_2": "myVar: 'Hello';",
+    "answer_3": "let myVar == 'Hello';",
+    "answer_4": "const myVar = Hello;",
+    "right_answer": "var myVar = 'Hello';"
+  },
+  {
+    "title": "What does the <title> element define?",
+    "answer_1": "The main heading of the page",
+    "answer_2": "The title of the HTML document, shown in the browser tab",
+    "answer_3": "The description of the web page",
+    "answer_4": "The meta information for search engines",
+    "right_answer": "The title of the HTML document, shown in the browser tab"
+  },
+  {
+    "title": "How do you make text bold in CSS?",
+    "answer_1": "font-style: bold;",
+    "answer_2": "text-weight: bold;",
+    "answer_3": "font-weight: bold;",
+    "answer_4": "text-style: bold;",
+    "right_answer": "font-weight: bold;"
+  },
+  {
+    "title": "Which of the following methods is used to find an HTML element by its ID?",
+    "answer_1": "getElementById()",
+    "answer_2": "getElementsByClassName()",
+    "answer_3": "querySelectorAll()",
+    "answer_4": "getElementsByTagName()",
+    "right_answer": "getElementById()"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answer_1": "<break>",
+    "answer_2": "<lb>",
+    "answer_3": "<br>",
+    "answer_4": "<hr>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which of the following properties controls the space between lines of text?",
+    "answer_1": "letter-spacing",
+    "answer_2": "line-height",
+    "answer_3": "text-spacing",
+    "answer_4": "word-spacing",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "What does the addEventListener() method do in JavaScript?",
+    "answer_1": "Adds an event handler directly to an element",
+    "answer_2": "Removes an event from an element",
+    "answer_3": "Adds an event listener to an element without overwriting existing events",
+    "answer_4": "Prevents an element from responding to events",
+    "right_answer": "Adds an event listener to an element without overwriting existing events"
+  },
+  {
+    "title": "Which HTML attribute is used to specify an image source?",
+    "answer_1": "href",
+    "answer_2": "src",
+    "answer_3": "source",
+    "answer_4": "img-src",
+    "right_answer": "src"
+  }
+]
